@@ -5,7 +5,7 @@
     "dev": "nuxi dev",
     "preview": "nuxi preview",
     "generate": "nuxt generate",
-    "start": "nuxt preview"
+    "start": "nuxt start"
   },
   "devDependencies": {
     "@pinia/nuxt": "^0.1.9",
