@@ -3,9 +3,9 @@
   "scripts": {
     "build": "nuxi build",
     "dev": "nuxi dev",
-    "start": "nuxi preview",
+    "preview": "nuxi preview",
     "generate": "nuxt generate",
-    "preview": "nuxt preview"
+    "start": "nuxt preview"
   },
   "devDependencies": {
     "@pinia/nuxt": "^0.1.9",
